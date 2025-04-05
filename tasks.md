@@ -1,8 +1,8 @@
 # xLSTM Autoencoder for Anomaly Detection in Time Series Data
 ## Dataset:
-  [] Find appropriate dataset; must contain (time) series data
-  [] training the model only on anomaly-free data
-    [] set anomaly-threshold as the max reconstrucion error of the anoamly-free data
+- [] Find appropriate dataset; must contain (time) series data
+- [] training the model only on anomaly-free data
+- [] set anomaly-threshold as the max reconstrucion error of the anoamly-free data
 
 ## Model:
 ### xLSTM Autoencoder
