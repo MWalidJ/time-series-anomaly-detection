@@ -9,6 +9,11 @@
 - [Metadataset search from neuromatch](https://deeplearning.neuromatch.io/projects/docs/datasets_and_models.html)
 - [Datasets from compneuro.neuromatch including ECoG/fMRI/Neuron_recordings/behavioral/theoretical](https://compneuro.neuromatch.io/projects/docs/datasets_overview.html)
 
+### Possible datasets:
+1. from [TUH EEG corpus](https://isip.piconepress.com/projects/nedc/html/tuh_eeg/):
+- The TUH EEG Epilepsy Corpus (TUEP: v2.0.1)
+- The TUH EEG Seizure Corpus (TUSZ: v2.0.3)
+
 ## Model:
 ### xLSTM Autoencoder
 1. [] contains 2 xLSTM layers, one as Encoder, one as Decoder.
