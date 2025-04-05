@@ -4,6 +4,11 @@
 - [] training the model only on anomaly-free data
 - [] set anomaly-threshold as the max reconstrucion error of the anoamly-free data
 
+### Links for datasets:
+- [EEG Datasets](https://github.com/meagmohit/EEG-Datasets)
+- [Metadataset search from neuromatch](https://deeplearning.neuromatch.io/projects/docs/datasets_and_models.html)
+- [Datasets from compneuro.neuromatch including ECoG/fMRI/Neuron_recordings/behavioral/theoretical](https://compneuro.neuromatch.io/projects/docs/datasets_overview.html)
+
 ## Model:
 ### xLSTM Autoencoder
 1. [] contains 2 xLSTM layers, one as Encoder, one as Decoder.
