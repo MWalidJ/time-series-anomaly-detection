@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "1c1038ff7a3ab13e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c90a82919f4521e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b36791a02e201e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "time-series-anomaly-detection/papers_summaries/dpbeaasr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dpbeaasr"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46e642a0c084c145",
+    "type": "split",
+    "children": [
+      {
+        "id": "4be3ff42c9f9d68e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a6ee08b7f5063bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f47749f20b725430",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "community",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e5f421950cb5869d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3dc377c326474a31",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5638a093ac4649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b7819506b5da2ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "time-series-anomaly-detection/papers_summaries/dpbeaasr.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for dpbeaasr"
+            }
+          },
+          {
+            "id": "de71b4b77b0f7a7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "time-series-anomaly-detection/papers_summaries/dpbeaasr.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from dpbeaasr"
+            }
+          },
+          {
+            "id": "2b7db320bf88fca9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e483b7018d2be417",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "time-series-anomaly-detection/papers_summaries/dpbeaasr.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of dpbeaasr"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b36791a02e201e0b",
+  "lastOpenFiles": [
+    "Pasted image 20250420072115.png",
+    "time-series-anomaly-detection/papers_summaries/dpbeaasr.md",
+    "tasks.md",
+    "Things_to_keep_in_mind.md",
+    "create a link.md",
+    "Pasted image 20250419235411.png",
+    "Pasted image 20250419235325.png",
+    "time-series-anomaly-detection/papers_summaries",
+    "time-series-anomaly-detection/tasks.md",
+    "time-series-anomaly-detection/papers_notes",
+    "Untitled.canvas",
+    "time-series-anomaly-detection/Things_to_keep_in_mind.md",
+    "Welcome.md",
+    "time-series-anomaly-detection"
+  ]
+}
