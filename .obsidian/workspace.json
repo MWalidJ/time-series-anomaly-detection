@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "time-series-anomaly-detection/papers_summaries/dpbeaasr.md",
+                "file": "time-series-anomaly-detection/papers_summaries/Automatic Analysis of EEGs Using Big Data and Hybrid Deep Learning Architectures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dpbeaasr"
+              "title": "Automatic Analysis of EEGs Using Big Data and Hybrid Deep Learning Architectures"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "time-series-anomaly-detection/papers_summaries/dpbeaasr.md",
+                "file": "time-series-anomaly-detection/papers_summaries/Automatic Analysis of EEGs Using Big Data and Hybrid Deep Learning Architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dpbeaasr"
+              "title": "Backlinks for Automatic Analysis of EEGs Using Big Data and Hybrid Deep Learning Architectures"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "time-series-anomaly-detection/papers_summaries/dpbeaasr.md",
+                "file": "time-series-anomaly-detection/papers_summaries/Automatic Analysis of EEGs Using Big Data and Hybrid Deep Learning Architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from dpbeaasr"
+              "title": "Outgoing links from Automatic Analysis of EEGs Using Big Data and Hybrid Deep Learning Architectures"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "time-series-anomaly-detection/papers_summaries/dpbeaasr.md",
+                "file": "time-series-anomaly-detection/papers_summaries/Automatic Analysis of EEGs Using Big Data and Hybrid Deep Learning Architectures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dpbeaasr"
+              "title": "Outline of Automatic Analysis of EEGs Using Big Data and Hybrid Deep Learning Architectures"
             }
           }
         ]
@@ -170,15 +170,20 @@
   },
   "active": "b36791a02e201e0b",
   "lastOpenFiles": [
-    "Pasted image 20250420072115.png",
+    "time-series-anomaly-detection/steps/preprocessing/flow and notes.md",
+    "time-series-anomaly-detection/papers_summaries/Automatic Analysis of EEGs Using Big Data and Hybrid Deep Learning Architectures.md",
+    "time-series-anomaly-detection/tasks.md",
+    "time-series-anomaly-detection/steps/preprocessing",
+    "time-series-anomaly-detection/steps",
     "time-series-anomaly-detection/papers_summaries/dpbeaasr.md",
+    "time-series-anomaly-detection/papers_summaries/Untitled",
+    "Pasted image 20250420072115.png",
     "tasks.md",
     "Things_to_keep_in_mind.md",
     "create a link.md",
     "Pasted image 20250419235411.png",
     "Pasted image 20250419235325.png",
     "time-series-anomaly-detection/papers_summaries",
-    "time-series-anomaly-detection/tasks.md",
     "time-series-anomaly-detection/papers_notes",
     "Untitled.canvas",
     "time-series-anomaly-detection/Things_to_keep_in_mind.md",
